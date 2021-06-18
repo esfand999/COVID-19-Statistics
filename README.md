@@ -1,4 +1,4 @@
-This was a university assignment where we had to use API calls to display data regarding the COVID 19 Pandemic.
+This was a university assignment where we had to create a mobile application in React Native and use API calls to display data regarding the COVID 19 Pandemic.
 
 APIs used: 
 - https://rapidapi.com/Gramzivi/api/covid-19-data
